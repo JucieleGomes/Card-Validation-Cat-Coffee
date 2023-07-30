@@ -1,6 +1,6 @@
 // validator.js
 const validator = {
-  isValid, maskify,
+  isValid, maskify, 
 };
 
 export default validator;
@@ -9,7 +9,6 @@ export default validator;
 function isValid(cardNumber) {
   const cardNumberArray = [];
   let soma = 0;
-
   for (let index = 0; index < cardNumber.length; index++) {
     const elementoAtual = cardNumber[index];
     cardNumberArray.push(parseInt(elementoAtual));
@@ -27,13 +26,15 @@ function isValid(cardNumber) {
   for (let index = 0; index < cardNumberArray.length; index++) {
     soma = soma + cardNumberArray[index];
   }
-
+  
   if (soma % 10 === 0) {
     return true;
   } else {
     return false;
   }
+      
 }
+
 
 function maskify(cardNumber) {
   const valorExibido = cardNumber.replace(/.(?=.{4})/g, '#');
