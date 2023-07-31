@@ -7,8 +7,10 @@
 
 * [1.Descrição do projeto](1#-Descrição-do-projeto)
 * [2. Funcionalidades](2#-Funcionalidades)
-* [3.Tecologias utilizadas](4#-Tecnologias-utilizadas)
-* [4. Objetivos de aprendizaem atingidos](4#-Objetivos-de-aprendizagem-atingidos)
+* [3.Link do projeto](3#-Link-do-projeto)
+* [4.Tecologias utilizadas](4#-Tecnologias-utilizadas)
+* [5. Objetivos de aprendizaem atingidos](5#-Objetivos-de-aprendizagem-atingidos)
+* [6.Autora](6#-Autora)
   
 
 ***
@@ -16,7 +18,7 @@
 
 
 
-## Descrição do projeto 😻☕
+## 1.Descrição do projeto 😻☕
 
 Este é o primeiro projeto do bootcamp Laboratória da turma 011, o projeto tem como
 objetivo desenvolver uma apliação utilizando JAVA SCRIPT, HTML e CSS, que informe se 
@@ -34,7 +36,7 @@ Esta é uma imagem explicativa de como o algoritmo funciona:
 
 
 
-## 2. Funcionalidade 📚
+## 2.Funcionalidade 📚
 #### Esta é a tela de pagamento:
 ![tela](https://github.com/JucieleGomes/SAP011-card-validation/assets/127780316/dccc118b-2d67-46b3-a970-b8789b8c9dd2)
 
@@ -58,14 +60,19 @@ Esta é uma imagem explicativa de como o algoritmo funciona:
 
 
 
-## Tecnologias utilizadas🏗️
+## 3.Tecnologias utilizadas🏗️
 
 O projeto foi feito utilizando JAVA SCRIPT, HTML E CSS.
 
 
+## 4.Link do projeto
+
+https://jucielegomes.github.io/Card-Validation-Cat-Coffee/
 
 
-## Objetivos de aprendizagem atingidos ✅
+
+
+## 5.Objetivos de aprendizagem atingidos ✅
 
 #### HTML
 Durante a elaboração do projeto conheci novas tags HTML, entendi melhor a estrutura das páginas,
@@ -82,7 +89,7 @@ Aprendi comandos no Git, a fazer um fork de um projeto para o meu repositório.
 
 
 
-## Autora 💛
+## 6.Autora 💛
 https://www.linkedin.com/in/juciele-gomes-03287b149/
 
 #### Foi tranquilo!
