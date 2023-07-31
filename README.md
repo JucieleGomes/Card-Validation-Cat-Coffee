@@ -6,10 +6,10 @@
 ## Índice
 
 * [1.Descrição do projeto](1#-Descrição-do-projeto)
-* [2. Funcionalidades](2#-Funcionalidades)
+* [2.Funcionalidades](2#-Funcionalidades)
 * [3.Link do projeto](3#-Link-do-projeto)
 * [4.Tecologias utilizadas](4#-Tecnologias-utilizadas)
-* [5. Objetivos de aprendizaem atingidos](5#-Objetivos-de-aprendizagem-atingidos)
+* [5.Objetivos de aprendizaem atingidos](5#-Objetivos-de-aprendizagem-atingidos)
 * [6.Autora](6#-Autora)
   
 
