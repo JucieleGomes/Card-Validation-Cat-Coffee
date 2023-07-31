@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  
+}
+
+.container{
+  min-height: 83vh;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 60px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.container .form{
+  background: rgb(49, 95, 84);
+  border-radius: 10px; 
+  box-shadow: 0 10px 15px black;
+  padding: 20px;
+  width: 600px;
+  border: 1px solid black;
+  margin-top: 150px;
+  
+}
+
+.inputBox span{
+  display: block;
+  color:white;
+  padding-bottom: 5px;
+  
+}
+
+.inputBox input,
+.inputBox select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid rgb(0, 0, 0, .3);
+  color: rgb(34, 32, 32);
+  border: 1px solid black;
+}
+
+.flexBox{
+  display: flex;
+  gap: 15px;
+}
+
+.inputBox{
+  flex: 1 1 150px;
+}
+
+.submitButton {
+  width: 100%;
+  background: linear-gradient(45deg,rgb(77, 95, 90), rgb(20, 48, 40));
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 20px;
+  color:white;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 1px solid black;
+}
+
+.container-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  align-items: center; 
+  background:black;
+}
+
+.imagemInicial {
+  width:75%;
+  background: rgb(228, 230, 230);
+}
+header {
+  background-color: rgb(33, 100, 83);
+  overflow: auto; 
+  color: white;
+}
+.menu {
+  list-style: none;
+  padding: 0;
+  display: flex; 
+}
+
+.menu li {
+  padding: 1px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: inline-block; 
+  margin: 0;
+  margin-right: 65px;
+  margin-left: 30px; 
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+
+.menu img {
+  height: 120px; 
+  vertical-align: middle;
+  margin-left: 20px;
+  
+}
+
+.texto {
+  position: absolute;
+  top: 220px; /* Define a distância da margem superior */
+  left: 155px; /* Define a distância da margem esquerda */
+}
+
+.texto h2 {
+  font-size: 24px; /* Tamanho da fonte da frase */
+  color:rgb(209, 192, 192); /* Cor do texto da frase */
+  margin: 0; /* Remove o espaçamento padrão do h2 */
+}
+
+
+/* body {
+  background-image: url("Imagens/catcofee3ditado.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+} */
+
+  
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
