@@ -60,12 +60,12 @@ Esta é uma imagem explicativa de como o algoritmo funciona:
 
 
 
-## 3.Tecnologias utilizadas🏗️
+## 3.Tecnologias utilizadas 🏗️
 
 O projeto foi feito utilizando JAVA SCRIPT, HTML E CSS.
 
 
-## 4.Link do projeto
+## 4.Link do projeto 🔗
 
 https://jucielegomes.github.io/Card-Validation-Cat-Coffee/
 
