@@ -10,7 +10,7 @@
 * [3.Link do projeto](3#-Link-do-projeto)
 * [4.Tecologias utilizadas](4#-Tecnologias-utilizadas)
 * [5.Objetivos de aprendizaem atingidos](5#-Objetivos-de-aprendizagem-atingidos)
-* [6.Autora](6#-Autora)
+* [6.Desenvolvedora](6#-Autora)
   
 
 ***
@@ -89,19 +89,10 @@ Aprendi comandos no Git, a fazer um fork de um projeto para o meu repositório.
 
 
 
-## 6.Autora 💛
-https://www.linkedin.com/in/juciele-gomes-03287b149/
-
-#### Foi tranquilo!
-
-![giphy (2)](https://github.com/JucieleGomes/SAP011-card-validation/assets/127780316/9d303bb0-786e-47b1-be04-305cdf0c941b)
+## 6.Desenvolvedora 💛
+* Juciele Gomes: [GitHub](https://github.com/JucieleGomes) [LinkedIn](https://www.linkedin.com/in/juciele-gomes-03287b149/)
 
 
-#### Que venha o projeto #2! 
-
-
-
- ![giphy (1)](https://github.com/JucieleGomes/SAP011-card-validation/assets/127780316/03ec49af-02e9-4458-88e7-466c2f319d24)
 
  
 
